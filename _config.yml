@@ -1,9 +1,9 @@
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-# url: "http://test-page.github.io"
-#baseurl: ""
+url: "http://EugeniaVoytik.github.io"
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://eugeniavoytik.github.io/testpage.github.io"
+# url: "http://eugeniavoytik.github.io/testpage.github.io"
 # baseurl: "/testpage.github.io"
 
 title: AlphaPept
