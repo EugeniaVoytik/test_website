@@ -3,8 +3,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://eugeniavoytik.github.io/test-page"
-baseurl: "/test-page"
+url: "http://eugeniavoytik.github.io/testpage.github.io"
+# baseurl: "/testpage.github.io"
 
 title: AlphaPept
 description: A modular, python-based framework for Mass Spec
