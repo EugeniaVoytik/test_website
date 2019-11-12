@@ -1,7 +1,10 @@
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-url: "http://eugeniavoytik.github.io/test-page/"
-baseurl: ""
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+# url: "http://test-page.github.io"
+#baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+url: "http://eugeniavoytik.github.io/test-page"
+baseurl: "/test-page"
 
 title: AlphaPept
 description: A modular, python-based framework for Mass Spec
