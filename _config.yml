@@ -1,6 +1,6 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://eugeniavoytik.github.io"
+url: "http://eugeniavoytik.github.io/test-page/"
 baseurl: ""
 
 title: AlphaPept
