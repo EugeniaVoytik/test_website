@@ -7,7 +7,7 @@ use-site-title: true
 
 ---
 
-__AlphaPept__ is a new search engine for MassSpec:
+__AlphaPept__ is a new search engine for Mass Spectrometry:
 
 1. Python-based
 2. fast through use of highly optimized libraries, GPU support
