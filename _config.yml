@@ -81,7 +81,7 @@ social-network-links:
 #   rss: false
   email: "mann_dept@mailman.biochem.mpg.de"
 #   facebook: false
-  github: false
+  github: "https://github.com/MannLabs"
   twitter: "@labs_mann"
 #  reddit: yourname
 #  linkedin: daattali
