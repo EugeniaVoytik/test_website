@@ -68,28 +68,38 @@ footer-link-col: "#404040"
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want (these appear in the footer).
+# Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "Mann Lab"
-#   email: "mann_dept@mailman.biochem.mpg.de"
-#   github: yourname
-#   twitter: @labs_mann   # eg. daattali
+  name: Mann Lab
 
-# Select which links to show in the footer
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  github: yourname
-  email: "mann_dept@mailman.biochem.mpg.de"
-#   rss: false
-#   facebook: false
-  twitter: @labs_mann
-#   youtube: mannlab
+  rss: false
+  email: "@example.com"
+  facebook: false
+  github: false
+  twitter: "@labs_mann"
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
 
 # Select which share links to show in posts
-# share-links-active:
-#   twitter: true
+share-links-active:
+  twitter: true
 #   facebook: true
-#   google: false
 #   linkedin: true
 
 # How to display the link to the website in the footer
@@ -252,3 +262,102 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+# # If you are building a simple GitHub user page (username.github.io) then use these settings:
+# url: "http://eugeniavoytik.github.io"
+# # baseurl: ""
+
+# # If you are building a GitHub project page then use these settings:
+# # url: "http://eugeniavoytik.github.io/testpage.github.io"
+# # baseurl: "/testpage.github.io"
+
+# title: AlphaPept
+# description: A modular, python-based framework for Mass Spec
+
+# # List of links in the navigation bar
+# navbar-links:
+#   Why AlphaPept:
+#     - What we do: "goals"
+#     - Join us: "join"
+#     - Contact: "contact"
+#     - Code of Conduct: "CODE_OF_CONDUCT"
+#   Documentation: 
+#     - Quick Start Guide: "quick_guide"
+#     - Full User Guide: "full_guide"
+#     - Feature Finder Tutorial: "ff_tutorial"
+#     - Search Engine Tutorial: "SE_tutorial"
+#   Download: 
+#     - Conda Download and Installion: "bioconda"
+#     - Current Release and Manual Installation: "downloads"
+#     - Developmental Version: "github"
+#   Blog: "blog"
+#   Help: "help"
+
+# # Change all these values or delete the ones you don't want (these appear in the footer).
+# # Important: you must keep the "name" parameter, everything else you can remove
+# author:
+#   name: "AlphaPept - MassSpec Consortium"
+#   email: "@biochem.mpg.de"
+#   github: eugeniavoytik/eugeniavoytik.github.io
+#   facebook: yourname  # eg. daattali
+#   twitter:  "@labs_mann"  # eg. daattali
+
+# # Select which links to show in the footer
+# footer-links-active:
+#   github: true
+#   email: true
+#   rss: false
+#   facebook: false
+#   twitter: true
+
+# # Select which share links to show in posts
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   google: false
+#   linkedin: true
+  
+# # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# # disqus: "eugeniavoytik-github-io"
+
+# # Google Analytics ID
+# # google_analytics: ""
+
+# # Output options (more information on Jekyll's site)
+# timezone: "Europe/Munich"
+# markdown: kramdown
+# highlighter: rouge
+# permalink: /:year-:month-:day-:title/
+# paginate: 5
+# paginate_path: "/blog/page:num/"
+
+# kramdown:
+#   input: GFM
+
+# # Default YAML values (more information on Jekyll's site)
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       comments: true  # add comments to all blog posts
+#       social-share: true # add social media sharing buttons to all blog posts
+#   -
+#     scope:
+#       path: "" # all files
+#     values:
+#       layout: "page"
+#       show-avatar: true
+
+# # Exclude these files from production site
+# exclude:
+#   - LICENSE
+#   - README.md
+
+# gems:
+#   - jekyll-paginate
