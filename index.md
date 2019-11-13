@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Alphapept
-subtitle: Why you'd want to use AlphaPept
+subtitle: Why you'd be happy to use AlphaPept
+use-site-title: true
 ---
 
 ---
