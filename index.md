@@ -1,10 +1,5 @@
 ---
 ---
-
-#<img src="/img/alphapept_logo.png" title="Alphapept logo" alt="Alphapept logo" />
-
-![Alphapept logo](/img/alphapept_logo.png)
-
 __AlphaPept__ is a new search engine for MassSpec:
 
 1. Python-based
