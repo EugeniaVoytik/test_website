@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alphapept
+title: AlphaPept
 subtitle: Why you'd be happy to use AlphaPept
 use-site-title: true
 ---
