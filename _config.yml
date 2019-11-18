@@ -28,7 +28,7 @@ navbar-links:
   Documentation: 
     - Quick Start Guide: "quick_guide"
     - Full User Guide: "full_guide"
-    - Feature Finder Tutorial: "ff_tutorial"
+    - Feature Finder Tutorial: "FF_tutorial"
     - Search Engine Tutorial: "SE_tutorial"
   Download: 
     - Conda Download and Installion: "bioconda"
