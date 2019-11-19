@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Quick Guide how to install and Use AlphaPept
-subtitle: test
+subtitle: Guick Guide how to install and Use AlphaPept
 ---
 
 here should be your text
