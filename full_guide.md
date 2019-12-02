@@ -10,7 +10,9 @@ subtitle: A Complete Quide How to Install and Use AlphaPept
 ---
 
 #### THERMO RAW DATA
-1.
+
+1. Install [Thermo MS File Reader]() v.3.1 x64 or x32 (depending on your architecture) on your computer.
+* If you do not already have an access to  Thermo Scientific Software Download and Licensing Portal, please, register on the web page.
 
 #### MZML / MZXML formats
 
@@ -19,7 +21,7 @@ subtitle: A Complete Quide How to Install and Use AlphaPept
 2. Apply a "Peak Picking" filter for all MS Levels during the conversion process: 
 ![peak_picking](https://i.gyazo.com/f6050901c940954cfd51aed1772c56a0.png).
 3. Package your file(s) into .gzip format to reduce the size of the files:
-![gzip_package](https://i.gyazo.com/02e0abaa21262efcb546e2b6a9125250.png)
+![gzip_package](https://i.gyazo.com/02e0abaa21262efcb546e2b6a9125250.png).
 
 ---
 
