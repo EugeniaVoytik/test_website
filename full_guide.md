@@ -11,7 +11,7 @@ subtitle: A Complete Quide How to Install and Use AlphaPept
 
 #### THERMO RAW format
 
-1. Install [Thermo MS File Reader](https://thermo.flexnetoperations.com/control/thmo/product?plneID=632401) v.3.1 x64 or x32 (depending on your architecture) on your computer.
+1. Install [Thermo MS File Reader](https://thermo.flexnetoperations.com/control/thmo/product?plneID=632401) v.3.1 x64 or x32 (depending on your computer architecture).
 * If you do not already have an access to Thermo Scientific Software Portal, please, register on the web page.
 
 
